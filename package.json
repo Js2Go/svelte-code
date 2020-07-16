@@ -18,7 +18,10 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "d3-interpolate": "^1.4.0",
+    "d3-scale": "^3.2.1",
     "elizabot": "^0.0.3",
+    "mapbox-gl": "^1.11.1",
     "marked": "^1.1.1",
     "sirv-cli": "^0.4.4"
   }
